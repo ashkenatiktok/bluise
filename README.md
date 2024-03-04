@@ -1,8 +1,8 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+QUALITY MARKET 
+
+Get your 4k quality tutorials , cheap mlbb dias here!
 
 So far we've got:
 
